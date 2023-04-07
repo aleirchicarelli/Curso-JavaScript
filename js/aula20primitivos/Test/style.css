@@ -1,0 +1,35 @@
+body {
+ background-color: cornflowerblue;
+}
+
+.form {
+ font-size: 20px;
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+}
+
+input {
+ font-size: 25px;
+ margin: 10px;
+ background-image: rgb(205, 204, 204);
+ border: 3px solid whitesmoke;
+ border-radius: 8px;
+}
+
+button {
+ font-size: 20px;
+ background-image:rgb(205, 204, 204);
+ border: 3px solid whitesmoke;
+ border-radius: 8px;
+}
+
+p {
+ background-color:rgb(205, 204, 204);
+ flex-direction: column;
+ border: 2px solid whitesmoke;
+ border-radius: 10px;
+ text-align: center;
+ font-size: 30px;
+ margin: 10px;
+}
